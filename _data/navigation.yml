@@ -9,7 +9,7 @@
 
 main:
   - title: "Research Interests"
-  url: /portfolio/
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/
