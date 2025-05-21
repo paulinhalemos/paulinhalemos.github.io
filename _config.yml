@@ -22,7 +22,7 @@ repository               : "paulinhalemos/paulinhalemos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "plemos.jpg"
+  avatar           : "profile.png"
   name             : "Paula Lemos-Costa"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral investigator at the University of Sao Paulo in Theoretical and Community Ecology"
