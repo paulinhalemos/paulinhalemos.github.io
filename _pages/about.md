@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a theoretical ecologist interested in unraveling the rules that govern ecological communities and how processes at the population level scale up influencing the structure and functioning of ecological communities. I am currently a postdoctoral researcher at [The University of Sao Paulo](www.usp.br) in the [Ecology Department](https://www.ib.usp.br/ecologia.html). Previous I was a postdoctoral scholar at [The University of Chicago](www.uchicago.edu) working with Dr. Stefano Allesina. I have a bachelor and teaching degree in Biology from the University of São Paulo, where I also did my Master's in Ecology with Dr. Paulo Guimarães in the Ecology Department. I hold a PhD from the State University of Campinas where I worked with Dr. Marcus Aguiar.
+I'm a theoretical ecologist interested in unraveling the rules that govern ecological communities and how processes at the population level scale up influencing the structure and functioning of ecological communities. I am currently an independent postdoctoral investigator at [The University of Sao Paulo](www.usp.br) in the [Ecology Department](https://www.ib.usp.br/ecologia.html). Previous I was a postdoctoral scholar at [The University of Chicago](www.uchicago.edu) working with Dr. Stefano Allesina. I have a bachelor and teaching degree in Biology from the University of São Paulo, where I also did my Master's in Ecology with Dr. Paulo Guimarães in the Ecology Department. I hold a PhD from the State University of Campinas where I worked with Dr. Marcus Aguiar.
 
 
 A data-driven personal website
