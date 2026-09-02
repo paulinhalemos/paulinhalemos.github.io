@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Paula (Paulinha) Lemos-Costa"
 title_separator          : "-"
 name                     : &name "Paula Lemos-Costa"
-description              : &description "Postdoctoral investigator"
+description              : &description "REPAT-CNPq Principal Investigator"
 url                      : https://paulinhalemos.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paulinhalemos/paulinhalemos.github.io"
@@ -22,10 +22,10 @@ repository               : "paulinhalemos/paulinhalemos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "plemos1.jpeg"
   name             : "Paula Lemos-Costa"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral investigator at the University of Sao Paulo in Theoretical and Community Ecology"
+  bio              : "REPAT-CNPq Investigator at the University of Sao Paulo in Theoretical and Community Ecology"
   location         : "Sao Paulo - Brazil"
   employer         : "University of Sao Paulo"
   uri              : # URL

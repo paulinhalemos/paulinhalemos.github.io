@@ -19,12 +19,18 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Opportunities"
+    url: /opportunities/    
             
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+# - title: "Blog Posts"
+#    url: /year-archive/
+  
+  - title: "About Me"
+    url: /aboutme/    
+  
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
