@@ -1,23 +1,26 @@
 ---
-title: "Coevolutionary Dynamics"
-excerpt: "Species do not live in isolation. They interact with other species in ways that shape their ecological dynamics and their evolution. I am interested in ​understanding how spatial structure of interacting species shapes their coevolutionary dynamics.<br/><img src='/images/Merian_Metamorphosis_XXVII.jpg' width='230'>"
+title: "Structure and Functioning of Ecological Communities"
+excerpt: "How ecological processes lead to biological patterns<br/><img src='/images/Maria_Sibylla_Merian_Passionflower_with_its_fruit_with_pupae_caterpillars_and_two_flies.jpg' width='200'>"
 collection: portfolio
 ---
 
-Echoing Rachel Carson "In nature nothing exists alone" and hence species do not live in isolation. 
-They interact with other species in ways that shape their ecological dynamics and evolution.  
-These interactions between species can result in multiple forms of reciprocal evolutionary change, 
-called coevolution. Theoretical and empirical studies have shown that the coevolutionary process can
-differ among environments and among genetically distinct populations with different traits. 
-I am interested in understanding how the spatial structure of interacting species can influence their 
-coevolutionary dynamics. 
+Describing community structure and understanding its function is essential to our knowledge of 
+ecological communities. I’ve been particularly interested in unraveling the role of different 
+biological properties in structuring communities. We’ve been investigating this tropic under three lenses:
+
+(1) I’ve been puzzled by how different trade-offs in resource use affect species diversity and coexistence.
 
 
+(2) I’m interested in understanding the circumstances under which higher order interactions can 
+(de-)stabilize ecological communities.
 
-![](/images/greya.jpeg)
 
+(3) I’m fascinated by how relatedness between species given their shared evolutionary history 
+determines patterns of species interactions and they coexistence. 
+
+
+![](/images/atlantic_forest.jpg)
 
 <div style="font-size: 13px;">
-\textit{Greya} moth on a \textit{Lithophragma} plant
+Atlantic forest in Brazil
 </div>
-

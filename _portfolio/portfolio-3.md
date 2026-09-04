@@ -1,22 +1,24 @@
 ---
-title: "Intrapopulational variation"
-excerpt: "Individual variation in resource use is a recurrent pattern in natural populations. Unraveling how variation in resource use structures populations can help us make better predictions about population dynamics and understand how species will respond to environmental changes.<br/><img src='/images/Maria_Sibylla_Merian_fruit.jpg' width='250'>"
+title: "Coevolutionary Dynamics"
+excerpt: "Species do not live in isolation. They interact with other species in ways that shape their ecological dynamics and their evolution.<br/><img src='/images/Merian_Metamorphosis_XXVII.jpg' width='230'>"
 collection: portfolio
 ---
 
-Niche is a central concept in ecology. Traditionally, population’s niche has been 
-measured as the sum of individuals’ niche. Thus, niche variation across individuals is 
-overlooked as some stochastic variation in resource use. 
-However, several studies have demonstrated that within populations, individuals can 
-use resources differently. More importantly, incorporating such differences in individual 
-niches can alter the outcome of population dynamics, as it allows for density-dependent effects.
-I am interested in unraveling what underlies individual variation and understanding how such variation is
-organized within populations. 
+
+Echoing Rachel Carson "In nature nothing exists alone" and hence species do not live in isolation. 
+They interact with other species in ways that shape their ecological dynamics and evolution.  
+These interactions between species can result in multiple forms of reciprocal evolutionary change, 
+called coevolution. Theoretical and empirical studies have shown that the coevolutionary process can
+differ among environments and among genetically distinct populations with different traits. 
+I am interested in understanding how the spatial structure of interacting species shapes 
+ their coevolutionary dynamics.
 
 
-![](/images/otter.jpg)
+
+![](/images/greya.jpeg)
+
 
 <div style="font-size: 13px;">
-Sea otter resting in the kelp
+\textit{Greya} moth on a \textit{Lithophragma} plant
 </div>
 

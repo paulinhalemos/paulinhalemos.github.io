@@ -12,6 +12,8 @@ header:
 
 About Me
 ======
+<img src="/images/lemos_field.jpg" alt="Sua Foto" style="width: 220px; height: auto; float: right; margin-left: 20px; margin-bottom: 10px; border-radius: 4px;">
+
 I was born and raised in São Paulo, Brazil and lived there most of my life.
 When I wasn't in chaotic Sampa, I lived in Santa Cruz, California during my masters and PhD
 and in Chicago, Illinois for my postdoc. 
@@ -46,11 +48,14 @@ Work experience
 
 Visiting researcher
 ======
-* 2012: Visiting researcher at [Tim Tinker's](https://sites.google.com/view/nhydra-eco) 
-lab at UCSC studying inter-individual variation in resource use in sea otters
+* 2025: Visiting researcher at [Carlos Melian's](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/carlos-melian/show/)
+research group investigating how costs and benefits of species interactions influence ecosystem services they provide
 
 * 2016: Visiting researcher at [John N. Thompson's](https://thompsonlab.sites.ucsc.edu/) lab 
 at UCSC studying coevolution at the mutualism-antagonism interface in the \textit{Greya-Lithophragma} system
+
+* 2012: Visiting researcher at [Tim Tinker's](https://sites.google.com/view/nhydra-eco) 
+lab at UCSC studying inter-individual variation in resource use in sea otters
 
 
 Publications
@@ -73,7 +78,7 @@ Teaching
   
 Service
 ======
-I have acted as a reviewer for the following journals: Proceedings of the National Academy of Sciences, 
+I act as a reviewer for the following journals: Proceedings of the National Academy of Sciences, 
 Methods in Ecology and Evolution, PloS Computational Biology, Oikos, Oecologia, PeerJ, Community
 Ecology, Evolutionary Ecology, Global Ecology and Biogeography, Perspectives in Ecology and
 Conservation, The American Naturalist, Communications Biology, Journal of Animal Ecology,

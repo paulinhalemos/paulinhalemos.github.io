@@ -1,26 +1,31 @@
 ---
-title: "Structure and Functioning of Ecological Communities"
-excerpt: "How ecological processes lead to biological patterns<br/><img src='/images/Maria_Sibylla_Merian_Passionflower_with_its_fruit_with_pupae_caterpillars_and_two_flies.jpg' width='200'>"
+title: "Community Assembly"
+excerpt: "From individual species to whole communities<br/><img src='/images/Maria_Sibylla_Spiders.jpg' width='200'>"
 collection: portfolio
 ---
 
-Describing community structure and understanding its function is essential to our knowledge of 
-ecological communities. I’ve been particularly interested in unraveling the role of different 
-biological properties in structuring communities. We’ve been investigating this tropic under three lenses:
+> "Every ecological community is a story written over time" 
+> -*Chuliang Song, 2025*
 
-(1) I’ve been puzzled by how different trade-offs in resource use affect species diversity and coexistence.
+Community assembly unfolds by the combinations of species following interacting rules, 
+whereas species’ losses are a consequence of removal of species based on species’ traits.
 
+My goal is to contribute to the theoretical advancement of the ecology of community assembly 
+as well as to derive empirical applications related to the response of different groups of 
+organisms to anthropogenic disturbances such as forest fragmentation. 
 
-(2) I’m interested in understanding the circumstances under which higher order interactions can 
-(de-)stabilize ecological communities.
-
-
-(3) I’m fascinated by how relatedness between species given their shared evolutionary history 
-determines patterns of species interactions and they coexistence. 
-
-
-![](/images/atlantic_forest.jpg)
+ The different paths of community assembly and disassembly can be revealed using transition graphs, 
+ which defines the trajectories ecological communities follow as species are integrated into or 
+ leave the system. Building these transition graphs allows incorporation of processes occurring at 
+ different ecological levels of organization, integrating different scales from the interaction 
+ between pairs of species to pattern formation in ecological communities.
+ 
+![](/images/rio.jpg)
 
 <div style="font-size: 13px;">
-Atlantic forest in Brazil
+Atlantic forest in Rio de Janeiro
+</div>
+<div style="font-size: 13px;">
+Song, C. (2025).
+Assembly graph as the rosetta stone of ecological assembly. Environmental Microbiology, 27(1), e70030.
 </div>
