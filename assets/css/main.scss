@@ -61,3 +61,54 @@ h1, h2, h3, h4, h5, h6,
 .footer a {
   font-family: Georgia, Times, serif !important;
 }
+
+// 3. Customized color 
+// Cor do fundo do site inteiro (Roxo Berinjela Escuro)
+body, 
+.initial-content, 
+.page__footer, 
+.masthead, 
+.page, 
+.page__content, 
+.sidebar, 
+.archive__item,
+#main {
+  background-color: #2c1a30 !important; 
+  color: #eedff2 !important; /* Texto em lavanda bem claro */
+}
+
+// Remove todas as bordas e fundos cinzas que formavam os "quadrados" nas laterais e textos
+.sidebar, 
+.page__content, 
+.archive__item, 
+.masthead, 
+.page__footer,
+.nav__list {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important; /* Remove sombras que possam marcar o quadrado */
+}
+
+// Cor dos links principais e botões (Lavanda Luminoso)
+a, .masthead__menu-item a, .sidebar a, .footer a, .nav__list-item a {
+  color: #d1a3df !important;
+  text-decoration: none;
+}
+
+// Cor de quando você passa o mouse nos links (Lavanda quase branco)
+a:hover, .masthead__menu-item a:hover, .sidebar a:hover, .nav__list-item a:hover {
+  color: #f3e6f7 !important;
+  text-decoration: underline !important;
+}
+
+// Linhas divisórias sutis e elegantes em tons roxos (opcional, se quiser separar seções)
+hr {
+  border-color: #4a2f52 !important;
+}
+
+// Muda os retângulos do topo e do rodapé para um roxo bem escuro, combinando com o fundo
+.masthead, .page__footer {
+  background-color: #1e1121 !important; /* Um roxo quase preto, muito sofisticado */
+  border-bottom: 1px solid #4a2f52 !important; /* Linha divisória roxa sutil */
+  border-top: 1px solid #4a2f52 !important;
+}
