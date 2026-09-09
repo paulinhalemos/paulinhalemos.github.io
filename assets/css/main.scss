@@ -41,4 +41,23 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-$global-font-family: Georgia, Times, serif !default;
+
+// 2. Forcing serif font for the whole website
+body, 
+input, 
+textarea, 
+select, 
+h1, h2, h3, h4, h5, h6, 
+.site-title, 
+.site-subtitle, 
+.masthead__menu-item, 
+.masthead__menu-item a, 
+.sidebar, 
+.sidebar a, 
+.nav__list-item, 
+.nav__list-item a, 
+.archive__item-title, 
+.footer, 
+.footer a {
+  font-family: Georgia, Times, serif !important;
+}
