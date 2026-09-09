@@ -34,7 +34,7 @@ Education
 
 Work experience
 ======
-* 2025-current: Independent Researcher (REPAT-CNPq)
+* 2025-current: Principal Investigator (REPAT-CNPq)
   * University of Sao Paulo
   * Main project: Transition graphs as a tool to unravel community
     assembly, disassembly and recovery in ecological systems
@@ -49,7 +49,7 @@ Work experience
 Visiting researcher
 ======
 * 2025: Visiting researcher at [Carlos Melian's](https://www.eawag.ch/en/about-us/portrait/organisation/staff/profile/carlos-melian/show/)
-research group investigating how costs and benefits of species interactions influence ecosystem services they provide
+research group (EAWAG, ETH-Domain) investigating how costs and benefits of species interactions influence ecosystem services they provide
 
 * 2016: Visiting researcher at [John N. Thompson's](https://thompsonlab.sites.ucsc.edu/) lab 
 at UCSC studying coevolution at the mutualism-antagonism interface in the \textit{Greya-Lithophragma} system

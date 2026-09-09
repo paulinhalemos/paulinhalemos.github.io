@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "REPAT-CNPq Investigator at the University of Sao Paulo in Theoretical and Community Ecology"
   location         : "Sao Paulo - Brazil"
-  employer         : "University of Sao Paulo"
+  employer         : '<a href="https://usp.br" target="_blank" style="color: inherit; text-decoration: underline;">Universidade de São Paulo (USP)</a>'
   uri              : # URL
   email            : "paulinhalemos@gmail.com" 
 
