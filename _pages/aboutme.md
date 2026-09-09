@@ -10,6 +10,14 @@ header:
   overlay_filter: "0.5"
 ---
 
+<!-- CSS específico do Minimal Mistakes para forçar a altura máxima do cabeçalho -->
+<style>
+  .page__hero--overlay {
+    padding: 7em 0 !important; /* 10em ou 12em se quiser ainda mais alto */
+  }
+</style>
+
+
 About Me
 ======
 <img src="/images/lemos_field.jpg" alt="Sua Foto" style="width: 220px; height: auto; float: right; margin-left: 20px; margin-bottom: 10px; border-radius: 4px;">
